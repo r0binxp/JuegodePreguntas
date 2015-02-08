@@ -10,4 +10,4 @@ var Preguntas=["Quien es el jefe final (del primer final) del juego The binding 
 		]
 // El que lee esto es puto
 
-var RespuestasC=[ "1", "0", "0", "2" , "2", "0" ] 
+var RespuestasC=[ "1", "0", "2", "0" , "2", "0" ] 
